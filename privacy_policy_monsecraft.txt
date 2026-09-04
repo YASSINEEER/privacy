@@ -1,0 +1,38 @@
+Privacy Policy for MONSECRAFT : VERITY HORROR
+Zeenith Base LLC · Last updated: 4 September 2026
+
+MONSECRAFT: VERITY HORROR is a mobile game published by Zeenith Base LLC. This policy explains what information the game handles, who it is shared with, and what choices you have.
+
+What we collect ourselves
+Zeenith Base LLC does not collect, store, or transmit any personal information from you directly. The game has no account system, no login, and no server that receives your data. Your game progress is saved only on your own device.
+
+What our advertising partners collect
+MONSECRAFT: VERITY HORROR shows advertisements. Ads are delivered through Unity LevelPlay (ironSource), which works with Google AdMob and Unity Ads. To serve ads and measure whether they worked, these partners may collect:
+
+Your device's advertising identifier
+Device model, operating system version, and language
+Approximate location, derived from your IP address
+Which ads you were shown and whether you interacted with them
+This data is collected by the ad partners under their own privacy policies, not by us. You can read them here:
+
+Unity (LevelPlay, ironSource, and Unity Ads)
+Google (AdMob)
+Your choices
+You can reset or delete your advertising identifier at any time in your device settings, under Settings → Google → Ads on Android. Turning on "Delete advertising ID" stops apps from using it to build an advertising profile of you.
+
+If you are in the European Economic Area, the United Kingdom, or Switzerland, you will be asked for consent before personalised ads are shown, and you can change that choice later. If you are a California resident, you have the right to know what personal information is collected and to opt out of its sale or sharing; the ad partner links above explain how to exercise those rights with each company.
+
+Children
+MONSECRAFT: VERITY HORROR is a horror game and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you believe a child has provided such information through this game, contact us and we will act on it.
+
+Security and retention
+Because we hold no personal data on our own systems, there is nothing for us to retain or delete on your behalf. Data held by the advertising partners is retained according to their policies, linked above.
+
+Changes to this policy
+If this policy changes, the updated version will be posted at this same address with a new date at the top. Continuing to play the game after a change means you accept the updated policy.
+
+Contact
+Questions about this policy or about how Shifting House handles data:
+
+contact@zeenithbase.com
+Zeenith Base LLC
